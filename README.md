@@ -1,6 +1,7 @@
 # Nuxt-Scratch
 
 > A bare-bones Nuxt.js project that includes no dependencies or linting besides what is absolutely necessary for Nuxt.js to run. Perfect for starting a project from scratch without any overhead.
+
 > This project is based on the steps described in the [Nuxt.js installation documentation](https://nuxtjs.org/guide/installation#starting-from-scratch).
 
 ## Build Setup
